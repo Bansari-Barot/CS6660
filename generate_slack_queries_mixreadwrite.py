@@ -1,4 +1,4 @@
-from generate_slack import *
+from generate_data import *
 from random import choice, random, randint
 from random import expovariate, normalvariate, choice, randint, random, shuffle
 
