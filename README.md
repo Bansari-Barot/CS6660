@@ -19,7 +19,7 @@ With Index: Avg time - 5518.637ms
 File Name: queries__allAgg.js
 Without Index avg run time: 25865.3529
 After Index on email ids: 21755.6325
-100 Aggregate Query
+200 Aggregate Query
 
 
 4)
