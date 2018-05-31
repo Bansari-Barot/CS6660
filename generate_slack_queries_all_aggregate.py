@@ -1,3 +1,5 @@
+## This is old file I am uploading a new python file to create all aggregate query which have different performance before and after applying indexes. As we told you in class and you agreed with it. 
+
 from generate_data import *
 from random import choice, random, randint
 from random import expovariate, normalvariate, choice, randint, random, shuffle
