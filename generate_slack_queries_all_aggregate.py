@@ -1,3 +1,4 @@
+## This is updated files to generate all aggregate query. Beforeone was not doing any performance improvement before and after applying index. We already discuss this with you and you aggreed to it. 
 from generate_slack import *
 from random import choice, random, randint
 from random import expovariate, normalvariate, choice, randint, random, shuffle
